@@ -1,0 +1,31 @@
+body{
+    height: 10000px;
+}
+h1{
+    text-align: center; 
+    color: red;
+    font-size: 3em;
+    
+}
+#ccc{
+    color: darkcyan;
+}
+p{
+  color: rgb(149, 0, 248) !important;
+  font-style: italic;
+}
+.aaa{
+    font-weight: bold;
+    color: red;
+}
+.bbb{
+    font-style: normal;
+    color: blue;
+}
+.test{
+    color: darkorange;
+}
+div.test{
+    font-weight: bold;
+}
+

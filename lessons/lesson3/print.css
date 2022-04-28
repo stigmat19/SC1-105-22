@@ -1,0 +1,31 @@
+
+h1{
+    text-align: right;
+    font-style: italic;
+    font-family: 'Square Peg', cursive;
+}
+body{
+    height: 10000px;
+}
+
+#ccc{
+    color: darkcyan;
+}
+p{
+  color: rgb(149, 0, 248);
+  font-style: italic;
+}
+.aaa{
+    font-weight: bold;
+    color: red;
+}
+.bbb{
+    font-style: normal;
+    color: blue;
+}
+.test{
+    color: darkorange;
+}
+div.test{
+    font-weight: bold;
+}
